@@ -1,8 +1,7 @@
-# phenmonia_eda
-Project from team AvengersOfAiMl
+# Pneumonia_eda
 
 
-Our objective is to build a model which takes a CXR image as input and
+The objective is to build a model which takes a CXR image as input and
 attempts to find potentially infected-area and predicts the position of box/boxes
 bounding the infected area. Automating Pneumonia screening in chest
 radiographs, providing affected area details through bounding box.Assist
