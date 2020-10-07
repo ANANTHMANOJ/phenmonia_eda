@@ -1,4 +1,4 @@
-# Pneumonia_eda
+# Pneumonia Detection
 
 
 The objective is to build a model which takes a CXR image as input and
